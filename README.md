@@ -14,7 +14,7 @@ http://localhost/collections/masked_rec
 
 http://localhost/collections/masked_rec/items
 
-http://localhost/collections/masked_rec/items/{feature_id} <-- working on a rewrite rule to fix this
+http://localhost/collections/masked_rec/items/{feature_id}
 
 
 
