@@ -45,13 +45,13 @@
             "rel": "self",
             "type": "application/geo+json",
             "title": "This document as GeoJSON",
-            "href": "http://localhost/collections/masked_rec/items/d693c1d4be6940e8839cd16afc7107?f=json"
+            "href": "http://localhost/collections/masked_rec/items/d693c1d4be6940e8839cd16afc7107.json"
         },
         {
             "rel": "alternate",
             "type": "application/ld+json",
             "title": "This document as RDF (JSON-LD)",
-            "href": "http://localhost/collections/masked_rec/items/d693c1d4be6940e8839cd16afc7107?f=jsonld"
+            "href": "http://localhost/collections/masked_rec/items/d693c1d4be6940e8839cd16afc7107.json"
         },
         {
             "rel": "collection",

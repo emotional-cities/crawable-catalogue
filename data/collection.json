@@ -45,6 +45,24 @@
             "rel": "items",
             "title": "items as RDF (GeoJSON-LD)",
             "href": "http://localhost/collections/masked_rec/items?f=jsonld"
+        },
+        {
+            "type": "application/geo+json",
+            "rel": "item",
+            "title": "7e2661f104ac4d2f8b1c2e0269b11e",
+            "href": "http://localhost/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e.json"
+        },
+        {
+            "type": "application/geo+json",
+            "rel": "item",
+            "title": "7e2661f104ac4d2f8b1c2e0269b11e",
+            "href": "http://localhost/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e.json"
+        },
+        {
+            "type": "application/geo+json",
+            "rel": "item",
+            "title": "7e2661f104ac4d2f8b1c2e0269b11e",
+            "href": "http://localhost/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e.json"
         }
     ],
     "extent": {
