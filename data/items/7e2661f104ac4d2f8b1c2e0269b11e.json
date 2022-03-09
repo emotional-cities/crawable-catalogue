@@ -45,25 +45,19 @@
             "rel": "self",
             "type": "application/geo+json",
             "title": "This document as GeoJSON",
-            "href": "https://emotional.byteroad.net/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e?f=json"
+            "href": "http://localhost/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e?f=json"
         },
         {
             "rel": "alternate",
             "type": "application/ld+json",
             "title": "This document as RDF (JSON-LD)",
-            "href": "https://emotional.byteroad.net/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e?f=jsonld"
-        },
-        {
-            "rel": "alternate",
-            "type": "text/html",
-            "title": "This document as HTML",
-            "href": "https://emotional.byteroad.net/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e?f=html"
+            "href": "http://localhost/collections/masked_rec/items/7e2661f104ac4d2f8b1c2e0269b11e?f=jsonld"
         },
         {
             "rel": "collection",
             "type": "application/json",
             "title": "Lisbon_20210912_pr",
-            "href": "https://emotional.byteroad.net/collections/masked_rec"
+            "href": "http://localhost/collections/masked_rec"
         }
     ]
 }
