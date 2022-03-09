@@ -16,7 +16,9 @@ http://localhost/collections/masked_rec/items
 
 http://localhost/collections/masked_rec/items/{feature_id}
 
+Next steps:
 
-
-
+1. Allow more collections (right now fixed to masked_rec). (Is it possible for crawable catalogs?)
+2. Automate creation of items endpoint
+3. Parameterize host and do not hard-code it in the jsons
 
