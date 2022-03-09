@@ -26,25 +26,25 @@
             "type": "application/json",
             "rel": "self",
             "title": "This document as JSON",
-            "href": "http://localhost/collections/masked_rec?f=json"
+            "href": "http://localhost/collections/masked_rec"
         },
         {
             "type": "application/ld+json",
             "rel": "alternate",
             "title": "This document as RDF (JSON-LD)",
-            "href": "http://localhost/collections/masked_rec?f=jsonld"
+            "href": "http://localhost/collections/masked_rec"
         },
         {
             "type": "application/geo+json",
             "rel": "items",
             "title": "items as GeoJSON",
-            "href": "http://localhost/collections/masked_rec/items?f=json"
+            "href": "http://localhost/collections/masked_rec/items"
         },
         {
             "type": "application/ld+json",
             "rel": "items",
             "title": "items as RDF (GeoJSON-LD)",
-            "href": "http://localhost/collections/masked_rec/items?f=jsonld"
+            "href": "http://localhost/collections/masked_rec/items"
         },
         {
             "type": "application/geo+json",
